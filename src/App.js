@@ -11,6 +11,7 @@ function App() {
       <h2>Ram</h2>
       <h2>Mahesh Babu</h2>
       <h2>N.T.R</h2>
+      <h2>Pawan Kalyan</h2>
     </div>
   );
 }
