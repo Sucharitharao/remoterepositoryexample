@@ -12,6 +12,8 @@ function App() {
       <h2>Mahesh Babu</h2>
       <h2>N.T.R</h2>
       <h2>Pawan Kalyan</h2>
+      <p>My First Repository Link 
+        : "htts://github.com/sucharitharao/remoterepositoryexample.git"</p>
     </div>
   );
 }
